@@ -21,4 +21,7 @@
 <h2><p><b>Ensino Médio ( 1° ao 3° ano)</b></p></h2>
 <h3><p><b>Escola</b>: Colégio e Curso Icaro</p></h3>
 <h3><p><b>Cidade</b>: Rio de Janeiro                   <b>Período</b>: de  2014 ate 2017</p></h3> 
+<h3><p><b>Graduação (1° período)<\h3><\p><\b>
+<h3><P>Universidade: Veiga de Almeida (Centro)<\h3><\p>
+<h3><p>Graduação em: Sistema da Informação<\h3><\p>
 </body>
