@@ -8,7 +8,7 @@
 <h3><p><b>Bairro</b>: Grajau                                        <b>Fone</b>: (21)2577-9778 /(21) 97000-6107</p></h3>
 <h3><p><b>E-mail</b>: brunobmorgan@yahoo.com.br</p></h3>
 <h3><p><b>Cidade</b>: Rio de Janeiro     CEP: 20560180           <b>Estado</b>: Rio de Janeiro</p></h3>
-<h3><p><b>Mãe</b>: Maria de Fatima Braga Morgan</p></h2>
+<h3><p><b>Mãe</b>: Maria de Fatima Braga Morgan</p></h3>
 <h3><p><b>Pai</b>: José Eliazer Morgan</p></h3>
 <h3><p><b>Nacionalidade</b>: Brasileiro                 <b>Naturalidade</b>:  Rio de Janeiro</p></h3> 
 <h3><p><b>Data de  Nascimento</b>: 30/03/1999      <b>Estado Civil</b>: Solteiro</p></h3>
