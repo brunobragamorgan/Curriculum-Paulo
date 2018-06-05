@@ -1,4 +1,5 @@
 # Curriculum-Paulo
+<html>
 <head>
 <h1><font color="FF0000">CURRICULUM VITAE</font></h1>
 </head>
@@ -25,3 +26,4 @@
 <h3><P>Universidade: Veiga de Almeida (Centro)</h3></p>
 <h3><p>Graduação em: Sistema da Informação</h3></p>
 </body>
+</html>
