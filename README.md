@@ -4,6 +4,7 @@
 <h1><font color="FF0000">CURRICULUM VITAE</font></h1>
 </head>
 <body>
+  
 <h3><p>Nome: Bruno Braga Morgan</p></h3>
 <h3><p><b>Endereço</b>: Rua Marechal Jofre n° 16 apto 101</p></h3> 
 <h3><p><b>Bairro</b>: Grajau                                        <b>Fone</b>: (21)2577-9778 /(21) 97000-6107</p></h3>
