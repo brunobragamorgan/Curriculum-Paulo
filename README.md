@@ -1,4 +1,4 @@
-# Curriculum-Paulo
+<!DOCTYPE.html>
 <html>
 <head>
 <h1><font color="FF0000">CURRICULUM VITAE</font></h1>
